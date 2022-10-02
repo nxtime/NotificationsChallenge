@@ -118,7 +118,7 @@ const Notifications = () => {
     return (
         <div className="px-4 py-6">
             <header className="flex items-center gap-2">
-                <h2 className="text-2xl font-bold">Notifications</h2>
+                <h1 className="text-2xl font-bold">Notifications</h1>
                 <span className="bg-blue-900 font-bold px-3 py-[2px] h-fit text-white rounded-md">
                     {notificationsData.filter(({ isRead }) => !isRead).length}
                 </span>

@@ -52,7 +52,7 @@ const NotificationItem = ({ data, ...props }: Props) => {
                 <a className="ml-auto w-full max-w-fit">
                     <img
                         src={data.action.image}
-                        alt={data.action.name}
+                        alt={data.action.name ?? data.user.name}
                         className="rounded-md h-10 border hover:border-blue-400 cursor-pointer"
                     />
                 </a>

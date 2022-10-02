@@ -58,6 +58,6 @@ Create modals for when you click on a notification, create animations when inter
 
 ## Author
 
-- Website - [Marcos Paulo](https://www.marcospaulo.vercel.app)
+- Website - [Marcos Paulo](https://marcospaulo.vercel.app)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Linkedin - [/in/code-mp](https://www.linkedin/in/code-mp)
