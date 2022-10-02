@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Solution](https://your-live-site-url.com)
+- Live Site URL: [Solution](https://nxtime-notifications-challenge.netlify.app)
 
 ## My process
 
@@ -59,5 +59,10 @@ Create modals for when you click on a notification, create animations when inter
 ## Author
 
 - Website - [Marcos Paulo](https://marcospaulo.vercel.app)
+<<<<<<< HEAD
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Linkedin - [/in/code-mp](https://www.linkedin/in/code-mp)
+=======
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nxtime)
+- Linkedin - [/in/code-mp](https://www.linkedin/in/code-mp)
+>>>>>>> 9bc6b5b8ad95b7e115fe73d88398b0af4a49e5d6
